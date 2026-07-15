@@ -1,0 +1,11 @@
+department_code,department_name,department_short_name,floor_number,description,contact_number,email,status
+D001,Cardiology,CAR,2,Heart Care Department,044-24561201,cardiology@medintel.com,Active
+D002,Neurology,NEU,3,Brain and Nervous System,044-24561202,neurology@medintel.com,Active
+D003,Orthopedics,ORT,4,Bone and Joint Care,044-24561203,orthopedics@medintel.com,Active
+D004,Pediatrics,PED,1,Child Care,044-24561204,pediatrics@medintel.com,Active
+D005,Emergency,EMR,0,24x7 Emergency Services,044-24561205,emergency@medintel.com,Active
+D006,Radiology,RAD,1,Medical Imaging,044-24561206,radiology@medintel.com,Active
+D007,Oncology,ONC,5,Cancer Treatment,044-24561207,oncology@medintel.com,Active
+D008,ENT,ENT,2,Ear Nose Throat,044-24561208,ent@medintel.com,Active
+D009,Dermatology,DER,3,Skin Care,044-24561209,dermatology@medintel.com,Active
+D010,ICU,ICU,0,Intensive Care Unit,044-24561210,icu@medintel.com,Active
